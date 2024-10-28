@@ -19,13 +19,13 @@ To add data to your Google Sheet via a Google Apps Script endpoint, you can use 
    - Select **x-www-form-urlencoded**.
    - Add a key-value pair with the following details:
      - **Key**: `add`
-     - **Value**: `John Doe,30,USA`
+     - **Value**: `John Doe,30`
 
 #### Example Configuration in Postman
 
 | Key  | Value              |
 |------|---------------------|
-| add  | John Doe,30,USA    |
+| add  | John Doe,30   |
 
 5. **Send the Request**:
 
